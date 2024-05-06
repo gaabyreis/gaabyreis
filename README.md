@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil🙋‍♀️  
 
-<!--
-**gaabyreis/gaabyreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ meu nome e gbariele reis
 
-Here are some ideas to get you started:
+ estpu estudando alura 
+ eatou me desenvolvendo na linguagem javaScript
+ ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+ ### voçe pode entrar em contato comigo
+1080211627SP@AL.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@gabyreis
+
+![](https://media1.tenor.com/m/XDv-dirRo2AAAAAC/scared-excuse-me.gif)
